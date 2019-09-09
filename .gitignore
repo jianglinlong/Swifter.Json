@@ -3,3 +3,9 @@
 ################################################################################
 
 /Swifter.Test.AspNetCore3_0/obj
+/Swifter.Test.AspNetCore/obj
+/Swifter.MessagePack/obj
+/Swifter.Json/obj
+/Swifter.Extensions.AspNetCore/obj
+/Swifter.Core/obj
+/.vs
